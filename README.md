@@ -11,3 +11,4 @@ something from local
 conflict
 
 conflict again
+conflict in local
